@@ -6,28 +6,34 @@ description: build(); is a GovTech-wide Hackathon and Incubator (supported by
   products for public good!
 image: /images/Logo__for_dark_bg____With_desc.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: don't just imagine it, build(); it
+      subtitle: Be part of the inaugural run of GovTech's Flagship Annual Hackathon +
+        Incubator
       background: /images/hero-banner.png
-      button: Contact Us
+      button: Sign Up
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: When
+          description: February & March 2025
+          url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: What is build();?
+      subtitle: tldr;
+      id: infobar
+      description: build(); is GovTech's internal month-long hackathon designed to
+        generate new products, with shortlisted projects being incubated with
+        funding & manpower.
+  - infocols:
+      title: At a Glance
+      subtitle: tldr;
+      id: infocols
+      infoboxes:
+        - title: Theme
+          description: Building the next generation of GovTech Products
+        - title: Sub-Themes
+          description: Products for Citizens Products for Public Officers Products for
+            GovTechies
 ---
